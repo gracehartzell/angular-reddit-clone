@@ -1,5 +1,9 @@
-# AngularRedditClone
+# Angular Reddit Clone
 
+This is my Angular Reddit Clone to demonstrate understanding of Angular. I've documented
+notes on how I made this application [here](notes.md).
+
+--------------------------------
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
 
 ## Development server
